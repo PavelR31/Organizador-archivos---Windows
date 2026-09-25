@@ -1,0 +1,56 @@
+# ==========================================
+# Entornos virtuales de Python
+# ==========================================
+venv/
+env/
+ENV/
+.venv/
+
+# ==========================================
+# Compilación y empaquetado (PyInstaller)
+# ==========================================
+build/
+dist/
+*.exe
+*.spec.bak
+
+# ==========================================
+# Bytecode y caché de Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# ==========================================
+# Archivos de configuración local y datos
+# ==========================================
+.FileOrganizer/
+*.log
+.env
+.env.*
+
+# ==========================================
+# Herramientas de IA y renders de lanzamiento
+# ==========================================
+brag-output*/
+.agents/
+skills-lock.json
+node_modules/
+
+# ==========================================
+# IDEs y editores
+# ==========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# Archivos del sistema operativo (Windows/macOS)
+# ==========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
