@@ -1,4 +1,4 @@
-﻿# FileOrganizer v2.0 - Windows Desktop App
+﻿# Organizador de archivos - Windows Desktop App
 
 Organizador automatico de archivos para Windows con interfaz grafica moderna.
 
